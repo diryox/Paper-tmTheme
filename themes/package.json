@@ -1,0 +1,14 @@
+{
+	"name": "paper-theme",
+	"displayName": "Paper themes",
+	"version": "0.1.0",
+	"publisher": "DiryoX",
+	"engines": { "vscode": "*" },
+	"contributes": {
+
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/diryox/Paper-tmTheme.git"
+	}
+}
