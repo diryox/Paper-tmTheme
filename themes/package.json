@@ -3,9 +3,15 @@
 	"displayName": "Paper themes",
 	"version": "0.1.0",
 	"publisher": "DiryoX",
-	"engines": { "vscode": "*" },
+	"engines": { "vscode": "^0.10.0" },
 	"contributes": {
-
+		"themes": [
+			{
+				"label": "Paper Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Paper_dark.tmTheme"
+			}
+		]
 	},
 	"repository": {
 		"type": "git",
