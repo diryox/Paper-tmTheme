@@ -1,6 +1,6 @@
 {
-	"name": "paper-theme",
-	"displayName": "Paper themes",
+	"name": "Paper-tmTheme",
+	"displayName": "Paper-tmTheme",
 	"version": "0.1.0",
 	"publisher": "DiryoX",
 	"engines": { "vscode": "^0.10.0" },
@@ -10,6 +10,11 @@
 				"label": "Paper Dark",
 				"uiTheme": "vs-dark",
 				"path": "./themes/Paper_dark.tmTheme"
+			},
+			{
+				"label": "Paper White",
+				"uiTheme": "vs",
+				"path": "./themes/Paper_white.tmTheme"
 			}
 		]
 	},
