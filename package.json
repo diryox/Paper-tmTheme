@@ -1,7 +1,7 @@
 {
 	"name": "Paper-tmTheme",
 	"displayName": "Paper-tmTheme",
-	"version": "0.1.0",
+	"version": "0.2.0",
 	"publisher": "DiryoX",
 	"engines": { "vscode": "^0.10.0" },
 	"contributes": {
