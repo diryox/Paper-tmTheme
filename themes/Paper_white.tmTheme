@@ -133,11 +133,11 @@
 			<key>name</key>
 			<string>Storage Typings</string>
 			<key>scope</key>
-			<string>storage.type, storage.type.java, storage.type.cs</string>
+			<string>storage.type</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#559e83</string>
+				<string>#1E9CC8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,6 +285,7 @@
 				<string>#525252</string>
 			</dict>
 		</dict>
+		<!--
         <dict>
 			<key>name</key>
 			<string>Typescript Types</string>
@@ -312,6 +313,7 @@
 				<string>#1E9CC8</string>
 			</dict>
 		</dict>
+		-->
         <!-- HTML -->
         <dict>
 			<key>name</key>
