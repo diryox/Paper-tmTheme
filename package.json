@@ -1,7 +1,7 @@
 {
 	"name": "Paper-tmTheme",
 	"displayName": "Paper-tmTheme",
-	"version": "0.2.0",
+	"version": "0.3.0",
 	"publisher": "DiryoX",
 	"author": {
 		"name": "Bension Xie",
@@ -16,6 +16,7 @@
 		"theme",
 		"color-theme"
 	],
+	"icon": "images/p.png",
 	"contributes": {
 		"themes": [
 			{
