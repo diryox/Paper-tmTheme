@@ -3,7 +3,19 @@
 	"displayName": "Paper-tmTheme",
 	"version": "0.2.0",
 	"publisher": "DiryoX",
+	"author": {
+		"name": "Bension Xie",
+		"email": "diryox@outlook.com"
+	},
 	"engines": { "vscode": "^0.10.0" },
+	"categories": [
+		"Themes",
+		"Other"
+	],
+	"keywords": [
+		"theme",
+		"color-theme"
+	],
 	"contributes": {
 		"themes": [
 			{
