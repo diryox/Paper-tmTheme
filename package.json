@@ -1,38 +1,40 @@
 {
-	"name": "Paper-tmTheme",
-	"displayName": "Paper-tmTheme",
-	"version": "0.3.4",
-	"publisher": "DiryoX",
-	"author": {
-		"name": "Bension Xie",
-		"email": "diryox@outlook.com"
-	},
-	"engines": { "vscode": "^0.10.0" },
-	"categories": [
-		"Themes",
-		"Other"
-	],
-	"keywords": [
-		"theme",
-		"color-theme"
-	],
-	"icon": "images/p.png",
-	"contributes": {
-		"themes": [
-			{
-				"label": "Paper Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/Paper_dark.tmTheme"
-			},
-			{
-				"label": "Paper White",
-				"uiTheme": "vs",
-				"path": "./themes/Paper_white.tmTheme"
-			}
-		]
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/diryox/Paper-tmTheme.git"
-	}
+    "name": "Paper-tmTheme",
+    "displayName": "Paper-tmTheme",
+    "version": "0.3.5",
+    "publisher": "DiryoX",
+    "author": {
+        "name": "Bension Xie",
+        "email": "diryox@outlook.com"
+    },
+    "engines": {
+        "vscode": "^0.10.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "keywords": [
+        "theme",
+        "color-theme"
+    ],
+    "icon": "assets/p.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Paper Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Paper_dark.tmTheme"
+            },
+            {
+                "label": "Paper White",
+                "uiTheme": "vs",
+                "path": "./themes/Paper_white.tmTheme"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/diryox/Paper-tmTheme.git"
+    }
 }
