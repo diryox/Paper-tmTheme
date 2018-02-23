@@ -48,8 +48,6 @@
 			<dict>
 				<key>foreground</key>
 				<string>#666666</string>
-                <key>fontStyle</key>
-				<string>italic</string>
 			</dict>
 		</dict>
         <dict>
@@ -405,7 +403,18 @@
 				<string>#F07D57</string>
 			</dict>
 		</dict>
-        
+        <!-- Python -->
+		<dict>
+			<key>name</key>
+			<string>Logical Operators</string>
+			<key>scope</key>
+			<string>keyword.operator.logical.python</string>
+            <key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#1E9CC8</string>
+			</dict>
+		</dict>
         <!-- Java -->
         <dict>
 			<key>name</key>
